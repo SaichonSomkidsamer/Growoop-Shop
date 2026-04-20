@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1921px" height="800px" viewBox="0 0 1921 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>header_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="41.8590708%" x2="50%" y2="91.8974918%" id="linearGradient-1">
+            <stop stop-color="#D6EEFF" offset="0%"></stop>
+            <stop stop-color="#EDF8FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="New---Redesign---02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="header_2">
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="1920" height="800"></rect>
+            <circle id="Oval-2" fill="#FFFFFF" fill-rule="nonzero" cx="1653" cy="111" r="17"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="1776" cy="66" r="17"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="858" cy="111" r="17"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="904" cy="70" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="550" cy="70" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="339" cy="83" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="300.5" cy="66.5" r="6.5"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="214.5" cy="83.5" r="6.5"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="1456" cy="80" r="10"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="1490" cy="63" r="7"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="1060" cy="80" r="7"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="1861" cy="76" r="7"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="1174" cy="86" r="16"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="592" cy="83" r="17"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="81.5" cy="46.5" r="26.5"></circle>
+            <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" cx="428.5" cy="46.5" r="13.5"></circle>
+            <rect id="Rectangle" fill-opacity="0.9" fill="url(#linearGradient-1)" fill-rule="nonzero" x="0" y="0" width="1921" height="674"></rect>
+            <g id="Group" transform="translate(0.000000, 1.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <circle id="Oval" transform="translate(684.000000, 133.000000) scale(-1, 1) rotate(-180.000000) translate(-684.000000, -133.000000) " cx="684" cy="133" r="3"></circle>
+                <circle id="Oval" transform="translate(614.500000, 6.500000) scale(-1, 1) rotate(-180.000000) translate(-614.500000, -6.500000) " cx="614.5" cy="6.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(588.500000, 1.500000) scale(-1, 1) rotate(-180.000000) translate(-588.500000, -1.500000) " cx="588.5" cy="1.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(54.000000, 47.000000) scale(-1, 1) rotate(-180.000000) translate(-54.000000, -47.000000) " cx="54" cy="47" r="5"></circle>
+                <circle id="Oval" transform="translate(4.500000, 57.500000) scale(-1, 1) rotate(-180.000000) translate(-4.500000, -57.500000) " cx="4.5" cy="57.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(371.000000, 37.000000) scale(-1, 1) rotate(-180.000000) translate(-371.000000, -37.000000) " cx="371" cy="37" r="5"></circle>
+                <circle id="Oval" transform="translate(407.000000, 51.000000) scale(-1, 1) rotate(-180.000000) translate(-407.000000, -51.000000) " cx="407" cy="51" r="5"></circle>
+                <circle id="Oval" transform="translate(133.000000, 37.000000) scale(-1, 1) rotate(-180.000000) translate(-133.000000, -37.000000) " cx="133" cy="37" r="5"></circle>
+                <circle id="Oval" transform="translate(147.000000, 50.000000) scale(-1, 1) rotate(-180.000000) translate(-147.000000, -50.000000) " cx="147" cy="50" r="3"></circle>
+                <circle id="Oval" transform="translate(312.000000, 47.000000) scale(-1, 1) rotate(-180.000000) translate(-312.000000, -47.000000) " cx="312" cy="47" r="3"></circle>
+                <circle id="Oval" transform="translate(322.500000, 51.500000) scale(-1, 1) rotate(-180.000000) translate(-322.500000, -51.500000) " cx="322.5" cy="51.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(194.500000, 46.500000) scale(-1, 1) rotate(-180.000000) translate(-194.500000, -46.500000) " cx="194.5" cy="46.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(227.000000, 44.000000) scale(-1, 1) rotate(-180.000000) translate(-227.000000, -44.000000) " cx="227" cy="44" r="5"></circle>
+                <circle id="Oval" transform="translate(433.500000, 48.500000) scale(-1, 1) rotate(-180.000000) translate(-433.500000, -48.500000) " cx="433.5" cy="48.5" r="2.5"></circle>
+                <circle id="Oval" cx="315" cy="93" r="3"></circle>
+                <circle id="Oval" cx="252" cy="97" r="3"></circle>
+                <circle id="Oval" cx="240.5" cy="91.5" r="1.5"></circle>
+                <circle id="Oval" cx="214.5" cy="96.5" r="1.5"></circle>
+                <circle id="Oval" cx="327" cy="97" r="5"></circle>
+                <circle id="Oval" cx="278.5" cy="85.5" r="4.5"></circle>
+                <circle id="Oval" cx="594" cy="52" r="5"></circle>
+                <circle id="Oval" cx="682" cy="92" r="5"></circle>
+                <circle id="Oval" cx="407" cy="105" r="5"></circle>
+                <circle id="Oval" cx="421" cy="93" r="3"></circle>
+                <circle id="Oval" cx="586" cy="95" r="3"></circle>
+                <circle id="Oval" cx="595.5" cy="90.5" r="2.5"></circle>
+                <circle id="Oval" cx="467.5" cy="95.5" r="2.5"></circle>
+                <circle id="Oval" cx="502" cy="98" r="5"></circle>
+                <circle id="Oval" cx="706.5" cy="93.5" r="2.5"></circle>
+            </g>
+            <g id="Group" opacity="0.473702567" transform="translate(997.000000, 56.000000) rotate(180.000000) translate(-997.000000, -56.000000) translate(694.000000, 0.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <circle id="Oval" transform="translate(585.500000, 109.500000) scale(-1, 1) rotate(-180.000000) translate(-585.500000, -109.500000) " cx="585.5" cy="109.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(2.500000, 56.500000) scale(-1, 1) rotate(-180.000000) translate(-2.500000, -56.500000) " cx="2.5" cy="56.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(527.500000, 6.500000) scale(-1, 1) rotate(-180.000000) translate(-527.500000, -6.500000) " cx="527.5" cy="6.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(506.500000, 1.500000) scale(-1, 1) rotate(-180.000000) translate(-506.500000, -1.500000) " cx="506.5" cy="1.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(66.000000, 38.000000) scale(-1, 1) rotate(-180.000000) translate(-66.000000, -38.000000) " cx="66" cy="38" r="4"></circle>
+                <circle id="Oval" transform="translate(25.500000, 46.500000) scale(-1, 1) rotate(-180.000000) translate(-25.500000, -46.500000) " cx="25.5" cy="46.5" r="3.5"></circle>
+                <circle id="Oval" transform="translate(328.000000, 30.000000) scale(-1, 1) rotate(-180.000000) translate(-328.000000, -30.000000) " cx="328" cy="30" r="4"></circle>
+                <circle id="Oval" transform="translate(358.000000, 42.000000) scale(-1, 1) rotate(-180.000000) translate(-358.000000, -42.000000) " cx="358" cy="42" r="4"></circle>
+                <circle id="Oval" transform="translate(131.000000, 30.000000) scale(-1, 1) rotate(-180.000000) translate(-131.000000, -30.000000) " cx="131" cy="30" r="4"></circle>
+                <circle id="Oval" transform="translate(142.500000, 41.500000) scale(-1, 1) rotate(-180.000000) translate(-142.500000, -41.500000) " cx="142.5" cy="41.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(279.500000, 38.500000) scale(-1, 1) rotate(-180.000000) translate(-279.500000, -38.500000) " cx="279.5" cy="38.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(288.000000, 43.000000) scale(-1, 1) rotate(-180.000000) translate(-288.000000, -43.000000) " cx="288" cy="43" r="2"></circle>
+                <circle id="Oval" transform="translate(182.000000, 38.000000) scale(-1, 1) rotate(-180.000000) translate(-182.000000, -38.000000) " cx="182" cy="38" r="2"></circle>
+                <circle id="Oval" transform="translate(210.000000, 37.000000) scale(-1, 1) rotate(-180.000000) translate(-210.000000, -37.000000) " cx="210" cy="37" r="4"></circle>
+                <circle id="Oval" transform="translate(378.000000, 40.000000) scale(-1, 1) rotate(-180.000000) translate(-378.000000, -40.000000) " cx="378" cy="40" r="2"></circle>
+                <circle id="Oval" cx="281.5" cy="76.5" r="2.5"></circle>
+                <circle id="Oval" cx="229.5" cy="79.5" r="2.5"></circle>
+                <circle id="Oval" cx="220.5" cy="75.5" r="1.5"></circle>
+                <circle id="Oval" cx="198.5" cy="80.5" r="1.5"></circle>
+                <circle id="Oval" cx="292" cy="79" r="4"></circle>
+                <circle id="Oval" cx="251.5" cy="70.5" r="3.5"></circle>
+                <circle id="Oval" cx="511" cy="43" r="4"></circle>
+                <circle id="Oval" cx="583" cy="75" r="4"></circle>
+                <circle id="Oval" cx="358" cy="87" r="4"></circle>
+                <circle id="Oval" cx="368.5" cy="76.5" r="2.5"></circle>
+                <circle id="Oval" cx="504.5" cy="78.5" r="2.5"></circle>
+                <circle id="Oval" cx="513" cy="75" r="2"></circle>
+                <circle id="Oval" cx="407" cy="79" r="2"></circle>
+                <circle id="Oval" cx="435" cy="81" r="4"></circle>
+                <circle id="Oval" cx="604" cy="77" r="2"></circle>
+            </g>
+            <g id="Group" opacity="0.559430804" transform="translate(941.000000, 90.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <circle id="Oval" transform="translate(611.000000, 114.000000) scale(-1, 1) rotate(-180.000000) translate(-611.000000, -114.000000) " cx="611" cy="114" r="3"></circle>
+                <circle id="Oval" transform="translate(3.000000, 59.000000) scale(-1, 1) rotate(-180.000000) translate(-3.000000, -59.000000) " cx="3" cy="59" r="3"></circle>
+                <circle id="Oval" transform="translate(549.500000, 6.500000) scale(-1, 1) rotate(-180.000000) translate(-549.500000, -6.500000) " cx="549.5" cy="6.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(528.500000, 1.500000) scale(-1, 1) rotate(-180.000000) translate(-528.500000, -1.500000) " cx="528.5" cy="1.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(69.000000, 40.000000) scale(-1, 1) rotate(-180.000000) translate(-69.000000, -40.000000) " cx="69" cy="40" r="4"></circle>
+                <circle id="Oval" transform="translate(26.500000, 48.500000) scale(-1, 1) rotate(-180.000000) translate(-26.500000, -48.500000) " cx="26.5" cy="48.5" r="3.5"></circle>
+                <circle id="Oval" transform="translate(342.000000, 32.000000) scale(-1, 1) rotate(-180.000000) translate(-342.000000, -32.000000) " cx="342" cy="32" r="4"></circle>
+                <circle id="Oval" transform="translate(373.000000, 44.000000) scale(-1, 1) rotate(-180.000000) translate(-373.000000, -44.000000) " cx="373" cy="44" r="4"></circle>
+                <circle id="Oval" transform="translate(137.000000, 32.000000) scale(-1, 1) rotate(-180.000000) translate(-137.000000, -32.000000) " cx="137" cy="32" r="4"></circle>
+                <circle id="Oval" transform="translate(149.000000, 43.000000) scale(-1, 1) rotate(-180.000000) translate(-149.000000, -43.000000) " cx="149" cy="43" r="3"></circle>
+                <circle id="Oval" transform="translate(292.000000, 40.000000) scale(-1, 1) rotate(-180.000000) translate(-292.000000, -40.000000) " cx="292" cy="40" r="3"></circle>
+                <circle id="Oval" transform="translate(300.000000, 45.000000) scale(-1, 1) rotate(-180.000000) translate(-300.000000, -45.000000) " cx="300" cy="45" r="2"></circle>
+                <circle id="Oval" transform="translate(190.000000, 40.000000) scale(-1, 1) rotate(-180.000000) translate(-190.000000, -40.000000) " cx="190" cy="40" r="2"></circle>
+                <circle id="Oval" transform="translate(219.000000, 39.000000) scale(-1, 1) rotate(-180.000000) translate(-219.000000, -39.000000) " cx="219" cy="39" r="4"></circle>
+                <circle id="Oval" transform="translate(395.000000, 42.000000) scale(-1, 1) rotate(-180.000000) translate(-395.000000, -42.000000) " cx="395" cy="42" r="2"></circle>
+                <circle id="Oval" cx="294" cy="80" r="3"></circle>
+                <circle id="Oval" cx="239" cy="83" r="3"></circle>
+                <circle id="Oval" cx="230.5" cy="78.5" r="1.5"></circle>
+                <circle id="Oval" cx="207.5" cy="83.5" r="1.5"></circle>
+                <circle id="Oval" cx="305" cy="83" r="4"></circle>
+                <circle id="Oval" cx="262.5" cy="73.5" r="3.5"></circle>
+                <circle id="Oval" cx="533" cy="45" r="4"></circle>
+                <circle id="Oval" cx="608" cy="78" r="4"></circle>
+                <circle id="Oval" cx="373" cy="91" r="4"></circle>
+                <circle id="Oval" cx="384" cy="80" r="3"></circle>
+                <circle id="Oval" cx="526" cy="83" r="3"></circle>
+                <circle id="Oval" cx="534" cy="78" r="2"></circle>
+                <circle id="Oval" cx="425" cy="83" r="2"></circle>
+                <circle id="Oval" cx="454" cy="85" r="4"></circle>
+                <circle id="Oval" cx="630" cy="81" r="2"></circle>
+            </g>
+            <g id="Group" opacity="0.473702567" transform="translate(961.000000, 238.500000) rotate(180.000000) translate(-961.000000, -238.500000) translate(645.000000, 180.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <circle id="Oval" transform="translate(610.500000, 114.500000) scale(-1, 1) rotate(-180.000000) translate(-610.500000, -114.500000) " cx="610.5" cy="114.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(2.500000, 59.500000) scale(-1, 1) rotate(-180.000000) translate(-2.500000, -59.500000) " cx="2.5" cy="59.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(550.500000, 5.500000) scale(-1, 1) rotate(-180.000000) translate(-550.500000, -5.500000) " cx="550.5" cy="5.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(528.500000, 1.500000) scale(-1, 1) rotate(-180.000000) translate(-528.500000, -1.500000) " cx="528.5" cy="1.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(69.500000, 40.500000) scale(-1, 1) rotate(-180.000000) translate(-69.500000, -40.500000) " cx="69.5" cy="40.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(27.000000, 49.000000) scale(-1, 1) rotate(-180.000000) translate(-27.000000, -49.000000) " cx="27" cy="49" r="4"></circle>
+                <circle id="Oval" transform="translate(341.500000, 31.500000) scale(-1, 1) rotate(-180.000000) translate(-341.500000, -31.500000) " cx="341.5" cy="31.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(372.500000, 43.500000) scale(-1, 1) rotate(-180.000000) translate(-372.500000, -43.500000) " cx="372.5" cy="43.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(137.500000, 31.500000) scale(-1, 1) rotate(-180.000000) translate(-137.500000, -31.500000) " cx="137.5" cy="31.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(149.500000, 43.500000) scale(-1, 1) rotate(-180.000000) translate(-149.500000, -43.500000) " cx="149.5" cy="43.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(291.500000, 40.500000) scale(-1, 1) rotate(-180.000000) translate(-291.500000, -40.500000) " cx="291.5" cy="40.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(300.000000, 44.000000) scale(-1, 1) rotate(-180.000000) translate(-300.000000, -44.000000) " cx="300" cy="44" r="2"></circle>
+                <circle id="Oval" transform="translate(190.000000, 40.000000) scale(-1, 1) rotate(-180.000000) translate(-190.000000, -40.000000) " cx="190" cy="40" r="2"></circle>
+                <circle id="Oval" transform="translate(218.500000, 37.500000) scale(-1, 1) rotate(-180.000000) translate(-218.500000, -37.500000) " cx="218.5" cy="37.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(395.000000, 42.000000) scale(-1, 1) rotate(-180.000000) translate(-395.000000, -42.000000) " cx="395" cy="42" r="2"></circle>
+                <circle id="Oval" cx="293.5" cy="80.5" r="2.5"></circle>
+                <circle id="Oval" cx="239.5" cy="83.5" r="2.5"></circle>
+                <circle id="Oval" cx="229.5" cy="78.5" r="1.5"></circle>
+                <circle id="Oval" cx="207.5" cy="83.5" r="1.5"></circle>
+                <circle id="Oval" cx="303.5" cy="83.5" r="4.5"></circle>
+                <circle id="Oval" cx="262" cy="74" r="4"></circle>
+                <circle id="Oval" cx="533.5" cy="44.5" r="4.5"></circle>
+                <circle id="Oval" cx="608.5" cy="79.5" r="4.5"></circle>
+                <circle id="Oval" cx="372.5" cy="90.5" r="4.5"></circle>
+                <circle id="Oval" cx="384.5" cy="80.5" r="2.5"></circle>
+                <circle id="Oval" cx="526.5" cy="81.5" r="2.5"></circle>
+                <circle id="Oval" cx="535" cy="78" r="2"></circle>
+                <circle id="Oval" cx="425" cy="82" r="2"></circle>
+                <circle id="Oval" cx="454.5" cy="84.5" r="4.5"></circle>
+                <circle id="Oval" cx="630" cy="80" r="2"></circle>
+            </g>
+            <g id="Group" opacity="0.619070871" transform="translate(499.500000, 156.000000) scale(-1, 1) rotate(-180.000000) translate(-499.500000, -156.000000) translate(158.000000, 93.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <circle id="Oval" transform="translate(660.000000, 123.000000) scale(-1, 1) rotate(-180.000000) translate(-660.000000, -123.000000) " cx="660" cy="123" r="3"></circle>
+                <circle id="Oval" transform="translate(3.000000, 64.000000) scale(-1, 1) rotate(-180.000000) translate(-3.000000, -64.000000) " cx="3" cy="64" r="3"></circle>
+                <circle id="Oval" transform="translate(594.500000, 6.500000) scale(-1, 1) rotate(-180.000000) translate(-594.500000, -6.500000) " cx="594.5" cy="6.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(571.500000, 1.500000) scale(-1, 1) rotate(-180.000000) translate(-571.500000, -1.500000) " cx="571.5" cy="1.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(74.500000, 42.500000) scale(-1, 1) rotate(-180.000000) translate(-74.500000, -42.500000) " cx="74.5" cy="42.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(29.000000, 53.000000) scale(-1, 1) rotate(-180.000000) translate(-29.000000, -53.000000) " cx="29" cy="53" r="4"></circle>
+                <circle id="Oval" transform="translate(369.500000, 34.500000) scale(-1, 1) rotate(-180.000000) translate(-369.500000, -34.500000) " cx="369.5" cy="34.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(403.500000, 47.500000) scale(-1, 1) rotate(-180.000000) translate(-403.500000, -47.500000) " cx="403.5" cy="47.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(147.500000, 34.500000) scale(-1, 1) rotate(-180.000000) translate(-147.500000, -34.500000) " cx="147.5" cy="34.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(161.000000, 47.000000) scale(-1, 1) rotate(-180.000000) translate(-161.000000, -47.000000) " cx="161" cy="47" r="3"></circle>
+                <circle id="Oval" transform="translate(315.000000, 43.000000) scale(-1, 1) rotate(-180.000000) translate(-315.000000, -43.000000) " cx="315" cy="43" r="3"></circle>
+                <circle id="Oval" transform="translate(324.000000, 48.000000) scale(-1, 1) rotate(-180.000000) translate(-324.000000, -48.000000) " cx="324" cy="48" r="2"></circle>
+                <circle id="Oval" transform="translate(205.000000, 43.000000) scale(-1, 1) rotate(-180.000000) translate(-205.000000, -43.000000) " cx="205" cy="43" r="2"></circle>
+                <circle id="Oval" transform="translate(236.500000, 42.500000) scale(-1, 1) rotate(-180.000000) translate(-236.500000, -42.500000) " cx="236.5" cy="42.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(427.000000, 45.000000) scale(-1, 1) rotate(-180.000000) translate(-427.000000, -45.000000) " cx="427" cy="45" r="2"></circle>
+                <circle id="Oval" cx="317" cy="86" r="3"></circle>
+                <circle id="Oval" cx="258" cy="90" r="3"></circle>
+                <circle id="Oval" cx="248.5" cy="84.5" r="1.5"></circle>
+                <circle id="Oval" cx="224.5" cy="90.5" r="1.5"></circle>
+                <circle id="Oval" cx="329.5" cy="89.5" r="4.5"></circle>
+                <circle id="Oval" cx="283" cy="79" r="4"></circle>
+                <circle id="Oval" cx="575.5" cy="48.5" r="4.5"></circle>
+                <circle id="Oval" cx="657.5" cy="84.5" r="4.5"></circle>
+                <circle id="Oval" cx="402.5" cy="97.5" r="4.5"></circle>
+                <circle id="Oval" cx="415" cy="86" r="3"></circle>
+                <circle id="Oval" cx="568" cy="89" r="3"></circle>
+                <circle id="Oval" cx="578" cy="84" r="2"></circle>
+                <circle id="Oval" cx="459" cy="89" r="2"></circle>
+                <circle id="Oval" cx="490.5" cy="90.5" r="4.5"></circle>
+                <circle id="Oval" cx="681" cy="87" r="2"></circle>
+            </g>
+            <g id="Group" opacity="0.473702567" transform="translate(396.500000, 270.000000) scale(-1, 1) rotate(-180.000000) translate(-396.500000, -270.000000) translate(55.000000, 207.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <circle id="Oval" transform="translate(660.000000, 123.000000) scale(-1, 1) rotate(-180.000000) translate(-660.000000, -123.000000) " cx="660" cy="123" r="3"></circle>
+                <circle id="Oval" transform="translate(3.000000, 64.000000) scale(-1, 1) rotate(-180.000000) translate(-3.000000, -64.000000) " cx="3" cy="64" r="3"></circle>
+                <circle id="Oval" transform="translate(594.500000, 6.500000) scale(-1, 1) rotate(-180.000000) translate(-594.500000, -6.500000) " cx="594.5" cy="6.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(571.500000, 1.500000) scale(-1, 1) rotate(-180.000000) translate(-571.500000, -1.500000) " cx="571.5" cy="1.5" r="1.5"></circle>
+                <circle id="Oval" transform="translate(74.500000, 42.500000) scale(-1, 1) rotate(-180.000000) translate(-74.500000, -42.500000) " cx="74.5" cy="42.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(29.000000, 53.000000) scale(-1, 1) rotate(-180.000000) translate(-29.000000, -53.000000) " cx="29" cy="53" r="4"></circle>
+                <circle id="Oval" transform="translate(369.500000, 34.500000) scale(-1, 1) rotate(-180.000000) translate(-369.500000, -34.500000) " cx="369.5" cy="34.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(403.500000, 47.500000) scale(-1, 1) rotate(-180.000000) translate(-403.500000, -47.500000) " cx="403.5" cy="47.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(147.500000, 34.500000) scale(-1, 1) rotate(-180.000000) translate(-147.500000, -34.500000) " cx="147.5" cy="34.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(161.000000, 47.000000) scale(-1, 1) rotate(-180.000000) translate(-161.000000, -47.000000) " cx="161" cy="47" r="3"></circle>
+                <circle id="Oval" transform="translate(315.000000, 43.000000) scale(-1, 1) rotate(-180.000000) translate(-315.000000, -43.000000) " cx="315" cy="43" r="3"></circle>
+                <circle id="Oval" transform="translate(324.000000, 48.000000) scale(-1, 1) rotate(-180.000000) translate(-324.000000, -48.000000) " cx="324" cy="48" r="2"></circle>
+                <circle id="Oval" transform="translate(205.000000, 43.000000) scale(-1, 1) rotate(-180.000000) translate(-205.000000, -43.000000) " cx="205" cy="43" r="2"></circle>
+                <circle id="Oval" transform="translate(236.500000, 42.500000) scale(-1, 1) rotate(-180.000000) translate(-236.500000, -42.500000) " cx="236.5" cy="42.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(427.000000, 45.000000) scale(-1, 1) rotate(-180.000000) translate(-427.000000, -45.000000) " cx="427" cy="45" r="2"></circle>
+                <circle id="Oval" cx="317" cy="86" r="3"></circle>
+                <circle id="Oval" cx="258" cy="90" r="3"></circle>
+                <circle id="Oval" cx="248.5" cy="84.5" r="1.5"></circle>
+                <circle id="Oval" cx="224.5" cy="90.5" r="1.5"></circle>
+                <circle id="Oval" cx="329.5" cy="89.5" r="4.5"></circle>
+                <circle id="Oval" cx="283" cy="79" r="4"></circle>
+                <circle id="Oval" cx="575.5" cy="48.5" r="4.5"></circle>
+                <circle id="Oval" cx="657.5" cy="84.5" r="4.5"></circle>
+                <circle id="Oval" cx="402.5" cy="97.5" r="4.5"></circle>
+                <circle id="Oval" cx="415" cy="86" r="3"></circle>
+                <circle id="Oval" cx="568" cy="89" r="3"></circle>
+                <circle id="Oval" cx="578" cy="84" r="2"></circle>
+                <circle id="Oval" cx="459" cy="89" r="2"></circle>
+                <circle id="Oval" cx="490.5" cy="90.5" r="4.5"></circle>
+                <circle id="Oval" cx="681" cy="87" r="2"></circle>
+            </g>
+            <g id="Group" opacity="0.473702567" transform="translate(1497.500000, 243.500000) scale(-1, 1) rotate(-180.000000) translate(-1497.500000, -243.500000) translate(1153.000000, 184.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <circle id="Oval" transform="translate(3.500000, 74.500000) scale(-1, 1) rotate(-180.000000) translate(-3.500000, -74.500000) " cx="3.5" cy="74.5" r="3.5"></circle>
+                <circle id="Oval" transform="translate(687.000000, 8.000000) scale(-1, 1) rotate(-180.000000) translate(-687.000000, -8.000000) " cx="687" cy="8" r="2"></circle>
+                <circle id="Oval" transform="translate(661.000000, 2.000000) scale(-1, 1) rotate(-180.000000) translate(-661.000000, -2.000000) " cx="661" cy="2" r="2"></circle>
+                <circle id="Oval" transform="translate(87.000000, 50.000000) scale(-1, 1) rotate(-180.000000) translate(-87.000000, -50.000000) " cx="87" cy="50" r="5"></circle>
+                <circle id="Oval" transform="translate(33.500000, 61.500000) scale(-1, 1) rotate(-180.000000) translate(-33.500000, -61.500000) " cx="33.5" cy="61.5" r="4.5"></circle>
+                <circle id="Oval" transform="translate(427.000000, 40.000000) scale(-1, 1) rotate(-180.000000) translate(-427.000000, -40.000000) " cx="427" cy="40" r="5"></circle>
+                <circle id="Oval" transform="translate(467.000000, 55.000000) scale(-1, 1) rotate(-180.000000) translate(-467.000000, -55.000000) " cx="467" cy="55" r="5"></circle>
+                <circle id="Oval" transform="translate(171.000000, 40.000000) scale(-1, 1) rotate(-180.000000) translate(-171.000000, -40.000000) " cx="171" cy="40" r="5"></circle>
+                <circle id="Oval" transform="translate(186.500000, 54.500000) scale(-1, 1) rotate(-180.000000) translate(-186.500000, -54.500000) " cx="186.5" cy="54.5" r="3.5"></circle>
+                <circle id="Oval" transform="translate(364.500000, 50.500000) scale(-1, 1) rotate(-180.000000) translate(-364.500000, -50.500000) " cx="364.5" cy="50.5" r="3.5"></circle>
+                <circle id="Oval" transform="translate(374.500000, 56.500000) scale(-1, 1) rotate(-180.000000) translate(-374.500000, -56.500000) " cx="374.5" cy="56.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(237.500000, 50.500000) scale(-1, 1) rotate(-180.000000) translate(-237.500000, -50.500000) " cx="237.5" cy="50.5" r="2.5"></circle>
+                <circle id="Oval" transform="translate(273.000000, 49.000000) scale(-1, 1) rotate(-180.000000) translate(-273.000000, -49.000000) " cx="273" cy="49" r="5"></circle>
+                <circle id="Oval" transform="translate(493.500000, 52.500000) scale(-1, 1) rotate(-180.000000) translate(-493.500000, -52.500000) " cx="493.5" cy="52.5" r="2.5"></circle>
+                <circle id="Oval" cx="367.5" cy="100.5" r="3.5"></circle>
+                <circle id="Oval" cx="298.5" cy="104.5" r="3.5"></circle>
+                <circle id="Oval" cx="288" cy="99" r="2"></circle>
+                <circle id="Oval" cx="259" cy="105" r="2"></circle>
+                <circle id="Oval" cx="381" cy="104" r="5"></circle>
+                <circle id="Oval" cx="327.5" cy="92.5" r="4.5"></circle>
+                <circle id="Oval" cx="666" cy="57" r="5"></circle>
+                <circle id="Oval" cx="466" cy="114" r="5"></circle>
+                <circle id="Oval" cx="480.5" cy="100.5" r="3.5"></circle>
+                <circle id="Oval" cx="657.5" cy="103.5" r="3.5"></circle>
+                <circle id="Oval" cx="667.5" cy="98.5" r="2.5"></circle>
+                <circle id="Oval" cx="531.5" cy="103.5" r="2.5"></circle>
+                <circle id="Oval" cx="567" cy="106" r="5"></circle>
+            </g>
+            <g id="Group-3" transform="translate(388.000000, 83.000000)">
+                <g id="Group-4"></g>
+            </g>
+        </g>
+    </g>
+</svg>
