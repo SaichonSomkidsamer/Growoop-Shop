@@ -5,7 +5,7 @@ const productData = {
     description: "ชุดสินค้าธีมสีเหลือง สดใส สะอาด และทันสมัย",
     price: "฿490",
     color: "#ffd84d",
-    page: "payment-a.html",
+    page: "https://buy.stripe.com/5kQ6oH3hE6T1dZNeJk0Ny00",
     badge: "Product Set A"
   },
 
