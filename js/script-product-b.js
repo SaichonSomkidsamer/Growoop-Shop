@@ -23,7 +23,7 @@ const productData = {
     description: "ชุดสินค้าธีมสีดำ พรีเมียม ดาร์กโมเดิร์น",
     price: "฿890",
     color: "#222",
-    page: "payment-c.html",
+    page: "https://buy.stripe.com/8x24gzaK65OXg7V6cO0Ny02",
     badge: "Product Set C"
   }
 

@@ -14,7 +14,7 @@ const productData = {
     description: "ชุดสินค้าธีมสีฟ้า เรียบหรู ดูสบายตา",
     price: "฿690",
     color: "#57b8ff",
-    page: "payment-b.html",
+    page: "https://buy.stripe.com/00wdR94lI0uD3l9fNo0Ny01",
     badge: "Product Set B"
   },
 
